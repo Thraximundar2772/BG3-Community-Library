@@ -24,5 +24,5 @@
 	<content contentuid="hd3e167a8g16fag4658g964bg85d209e6f04b" version="1">Pas d'arme de mélée équipée.&lt;br&gt;</content>
 	<content contentuid="h49da39e7gcac2g435agbfd7g81138ace47b1" version="1">Pas d'arme à distance équipée.&lt;br&gt;</content>
 	<content contentuid="hef7dd7fbgfff5g4882g8f59g6eacf657cb89" version="1">Pas d'arme secondaire équipée.&lt;br&gt;</content>
-	<content contentuid="ha46981c9g003ag4c06g9aa1gd811c530608f" version="1">Vous pouvez &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade"&gt;Invoquer&lt;/LSTag&gt; une arme du pacte, ou &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade_Bind"&gt;Lier&lt;/LSTag&gt; celle que vous utilisez, ses dégâts deviennent magiques et vous pouvez lui faire infliger[1], [2] ou[3] au lieu de ses dégâts habituels.</content>
+	<content contentuid="ha46981c9g003ag4c06g9aa1gd811c530608f" version="1">Vous pouvez &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade"&gt;Invoquer une arme du pacte&lt;/LSTag&gt;, ou &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade_Bind"&gt;Lier&lt;/LSTag&gt; celle que vous utilisez, ses dégâts deviennent magiques et vous pouvez lui faire infliger[1], [2] ou[3] au lieu de ses dégâts habituels.</content>
 </contentList>
