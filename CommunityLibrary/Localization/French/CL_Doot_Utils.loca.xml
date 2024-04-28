@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<contentList>
+﻿<contentList date="4/28/2024 18:00">
 	<content contentuid="h32a6c28cga0b5g48e6gbc8ag858ce837bc13" version="1">Invoquer un instrument</content>
 	<content contentuid="hd91a9d03g444dg4432g8259g23f1042a02d7" version="1">Invoquez un instrument à votre main. &lt;br&gt;&lt;br&gt;Veux avez &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Maîtrise des instruments de musique&lt;/LSTag&gt; tant que l'instrument est équipé.Vous ne pouvez en avoir qu'un à la fois.</content>
 	<content contentuid="ha54bfb6fgebe7g4528g96d8gd397f5e6f0ef" version="1">Instrument invoqué</content>
