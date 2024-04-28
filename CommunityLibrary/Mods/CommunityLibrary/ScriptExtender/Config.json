@@ -1,5 +1,0 @@
-{
-  "RequiredVersion": 11,
-  "ModTable": "CommunityLibrary",
-  "FeatureFlags": ["Lua"]
-}
