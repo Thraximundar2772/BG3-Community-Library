@@ -3,7 +3,7 @@
   <content contentuid="hb757e130g4e2cg4bcfga37eg2053773aae14" version="1">Une aura magique scintille le long de votre corps. La prochaine fois que vous lancerez un jet d’attaque magique, vous aurez l’avantage. Vous regagnez [1] Point de vie en soignant, et lorsque vous infligez des dégâts avec un sort, vous en infligez [2] supplémentaires.</content>
   <content contentuid="hcb9014eageaa1g44c5ga421g54b3fa04ad6d" version="1">Cette créature est entourée d'une aura magique. Lorsqu'il effectue des attaques de sorts, il a un avantage aux jets d'attaque. Lors de la guérison, il soigne +1 de vie supplémentaire. Lorsqu’il attaque, il inflige un [1] supplémentaire.</content>
   <content contentuid="hfcfa0bddg0b81g4fd2gaf53g6053c6032631" version="1">Bouclier de nuit</content>
-  <content contentuid="hce02e907gb65dg4f69ga64bg1f441e3ed42f" version="1">Un champ protecteur d'énergie obscure enveloppe votre corps, vous protégeant des dégâts de Force et des Projectiles magiques, tout en accordant également un bonus à tous les jets de sauvegarde. Le sort prend fin si vous êtes exposé à la lumière directe du soleil.</content>
+  <content contentuid="hce02e907gb65dg4f69ga64bg1f441e3ed42f" version="1">Un champ protecteur d'énergie obscure enveloppe votre corps, vous protégeant des dégâts de Force et des Projectiles magiques, tout en accordant également un bonus à tous les Jets de Sauvegarde. Le sort prend fin si vous êtes exposé à la lumière directe du soleil.</content>
   <content contentuid="hb76ab008g2ab4g4fd2g8b99gb3573e3e7e33" version="1">Coup du Sort</content>
   <content contentuid="h532ebc21g0637g406fg8cebg44f4cf8ae9bd" version="1">Vous pouvez ajouter votre modificateur de Sagesse à toutes les attaques de mêlée ou à distance que vous effectuez. De plus, vos attaques infligent un [1] supplémentaire.</content>
   <content contentuid="h588da6a0gbe9ag4aa8g9faegfa7fe3d75014" version="1">Bouclier de feu</content>
@@ -26,5 +26,5 @@
   <content contentuid="h51b94ed3g01bdg4706g9183gd64620e3b307" version="1">Guérison du foyer</content>
   <content contentuid="hdd618935g7de3g4420g9bdbg668fa51c06be" version="1">L'énergie de guérison vous entoure, restaurant votre santé de [1].</content>
   <content contentuid="h23c4a6degfb87g44b5ga366g06003a47830d" version="1">Hargne</content>
-  <content contentuid="h8e1dde8eg0684g475cga8eeg0cad2f5abc48" version="1">Inflige des dégâts dans un rayon de 3 m égaux à votre modificateur de Sagesse et Aiguillonne les ennemis qui échouent à une sauvegarde de sagesse.</content>
+  <content contentuid="h8e1dde8eg0684g475cga8eeg0cad2f5abc48" version="1">Inflige des dégâts dans un rayon de 3 m égaux à votre modificateur de Sagesse et Aiguillonne les ennemis qui échouent à une Sauvegarde de sagesse.</content>
 </contentList>

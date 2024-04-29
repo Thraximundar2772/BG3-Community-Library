@@ -19,7 +19,7 @@
   <content contentuid="h4994b37094b04d1b929ddbd29acf122a3feg" version="1">Défense patiente: Désengagement</content>
   <!-- CL_Shout_OneDnD_PatientDefense -->
   <content contentuid="h8c36a9aab6f34d5c87581467c31178bf6cc7" version="1">Défense patiente</content>
-  <content contentuid="h9242152009da4e72bc2711ca43fc76a79079" version="1">Se concentrer sur l'esquive des attaques.&lt;br&gt;&lt;Br&gt;Peut se déplacer sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre l'entité affectée ont un &lt;LSTag Tooltip="Désavantage"&gt;Désavantage&lt;/LSTag&gt;, et l'entité a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; de Dextérité.</content>
+  <content contentuid="h9242152009da4e72bc2711ca43fc76a79079" version="1">Se concentrer sur l'esquive des attaques.&lt;br&gt;&lt;Br&gt;Peut se déplacer sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre l'entité affectée ont un &lt;LSTag Tooltip="Désavantage"&gt;Désavantage&lt;/LSTag&gt;, et l'entité a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de Sauvegarde&lt;/LSTag&gt; de Dextérité.</content>
   <!-- CL_Shout_OneDnD_StepOfTheWind_Dash -->
   <content contentuid="hca17c350c8214a25be2ee25d1a48ed8f4gaa" version="1">Déplacement aérien : Foncer</content>
   <!-- CL_Shout_OneDnD_StepOfTheWind -->
